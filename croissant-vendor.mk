@@ -3609,9 +3609,6 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     AsusCamera \
     ConnectionSecurityService \
-    PowerOffAlarm \
-    PowerOffAlarm \
-    PowerOffAlarm \
     SSGTelemetryService \
     TimeService \
     TrustZoneAccessService \
