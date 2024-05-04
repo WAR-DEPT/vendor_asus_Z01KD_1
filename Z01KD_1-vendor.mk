@@ -352,7 +352,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z01KD_1/proprietary/vendor/camera_sound/self_timer_fast_jp.ogg:$(TARGET_COPY_OUT_VENDOR)/camera_sound/self_timer_fast_jp.ogg \
     vendor/asus/Z01KD_1/proprietary/vendor/camera_sound/self_timer_jp.ogg:$(TARGET_COPY_OUT_VENDOR)/camera_sound/self_timer_jp.ogg \
     vendor/asus/Z01KD_1/proprietary/vendor/camera_sound/silence.ogg:$(TARGET_COPY_OUT_VENDOR)/camera_sound/silence.ogg \
-    vendor/asus/Z01KD_1/proprietary/vendor/compatibility_matrix.xml:$(TARGET_COPY_OUT_VENDOR)/compatibility_matrix.xml \
     vendor/asus/Z01KD_1/proprietary/vendor/etc/BR/TIM_BR/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/BR/TIM_BR/Launcher/default_workspace/default_allapp.xml \
     vendor/asus/Z01KD_1/proprietary/vendor/etc/BR/TIM_BR/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/BR/TIM_BR/Launcher/default_workspace/phone_workspace.xml \
     vendor/asus/Z01KD_1/proprietary/vendor/etc/Camera_OIS_Update_FW.sh:$(TARGET_COPY_OUT_VENDOR)/etc/Camera_OIS_Update_FW.sh \
